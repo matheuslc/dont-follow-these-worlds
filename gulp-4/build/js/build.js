@@ -1,0 +1,2 @@
+document.querySelector("body").innerText("Dai :)");
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImpzL2RvU29tZXRoaW5nQXdlc29tZS5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiJidWlsZC5qcyIsInNvdXJjZXNDb250ZW50IjpbImRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoXCJib2R5XCIpLmlubmVyVGV4dChcIkRhaSA6KVwiKTsiXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0=

@@ -1,0 +1,39 @@
+{
+  "name": "gulp-4",
+  "version": "1.0.0",
+  "description": "Just a Gulp 4 workflow example",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matheuslc/dont-follow-these-worlds.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp",
+    "4",
+    "workflow",
+    "task",
+    "runner"
+  ],
+  "author": "Matheus Lucca do Carmo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheuslc/dont-follow-these-worlds/issues"
+  },
+  "homepage": "https://github.com/matheuslc/dont-follow-these-worlds#readme",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cli": "^1.2.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-eslint": "^3.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
