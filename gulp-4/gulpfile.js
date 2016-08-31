@@ -14,7 +14,7 @@ const html      = require('./tasks/html');
  * @description Apaga todo o diretório de build
  */
 gulp.task('clean', function(done) {
-  del('build/', done());
+  del('build/', done);
 });
 
 /**
